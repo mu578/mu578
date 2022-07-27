@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-| _
-| _
-| _
-| _
-| _
-| _
+
+- | _
+- | _
+- | _
+- | _
+- | _
+- | _
 essendi, essendo, essendum et essens.
