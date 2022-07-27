@@ -1,18 +1,26 @@
-### Hi there 👋
-
-
-**moe123/moe123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```
+                                      __  _-==-=_,-.
+                                      /--`' \_@-@.--<
+                                      `--'\ \   <___/.   Tiggers
+If Rabbit                                  \ \\   " /    can do
+Was bigger                                  >=\\_/`<	 ANYTHING!
+And fatter                      ____       /= |  \_|/
+And stronger,                 _'    `\   _/=== \___/
+Or bigger                     `___/ //\./=/~\====\
+Than Tigger,                      \   // /   | ===:
+If Tigger was smaller,             |  ._/_,__|_ ==:        __
+Then Tigger's bad habit             \/    \\ \\`--|       / \\
+Of bouncing at Rabbit                |    _     \\:      /==:-\
+Would matter no longer,              `.__' `-____/       |--|==:
+If Rabbit                               \    \ ===\      :==:`-'
+Was taller.                             _>    \ ===\    /==/
+                                       /==\   |  ===\__/--/
+                                      <=== \  /  ====\ \\/
+(one of Pooh's songs)                 _`--  \/  === \/--'
+                                     |       \ ==== |
+                                      -`------/`--' /
+                                              \___-'
+```
 
 ```
            .,;%%,                                   .,%%;
