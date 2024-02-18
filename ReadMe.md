@@ -109,6 +109,14 @@ ooo$oooooo       "$$$$$$$$$$$$$""      o"      oo$$""""""""$o  "
 心 之 心 輕
 ```
 
+```
+可惜我沒有心
+
+我不想找女朋友
+我只想讓你
+牽著我的手
+```
+
 -->
 
 <img align="right" margin="0" padding="0" src="desktop-screen-compressed-3.gif" width="30%" height="auto" />
