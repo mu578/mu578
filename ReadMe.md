@@ -133,8 +133,7 @@ ooo$oooooo       "$$$$$$$$$$$$$""      o"      oo$$""""""""$o  "
 <br /><br />
 【 ███████████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 】 <b>50.0 %</b> 🚺 🧪 🧬
 <br /><br />
-<div width="50%"><tt><h1>In their range of colour, size, form, and anatomical arrangement, flowers present a seemingly
-endless variety of combinations. They range in size from minute blossoms to giant blooms.</h1></tt></</div>
+# In their range of COLOUR, size, form, AND anatomical arrangement, FLOWERS present a seemingly endless VARIETY of combinations. They RANGE in size FROM minute blossoms to giant BLOOMS.
 <div margin="0" padding="0">
 <details><summary>⭐ Trumpet Vine</summary>
 ⬛⬛🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜🟦🟦🟦🟧🟦🟦🟫🟫⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟫🟫⬛⬛⬛⬛⬛<br />
