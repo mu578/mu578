@@ -121,7 +121,7 @@ ooo$oooooo       "$$$$$$$$$$$$$""      o"      oo$$""""""""$o  "
 
 # \#!/sbin/baklavash
 
-<img align="right" margin="0" padding="0" src="desktop-screen-compressed-3.gif" width="30%" height="auto" />
+<img align="right" margin="0" padding="0" src="desktop-screen-compressed-3.gif" width="28%" height="auto" />
 
 📌 ⛽ 📌 🌟 <b><tt> Greetings VISITOR </tt></b> ☔⚡🚨🚧⚠️
 <br />
