@@ -119,7 +119,7 @@ ooo$oooooo       "$$$$$$$$$$$$$""      o"      oo$$""""""""$o  "
 
 -->
 
-# \#!/bin/baklavash
+# \#!/sbin/baklavash
 
 <img align="right" margin="0" padding="0" src="desktop-screen-compressed-3.gif" width="30%" height="auto" />
 
