@@ -119,6 +119,8 @@ ooo$oooooo       "$$$$$$$$$$$$$""      o"      oo$$""""""""$o  "
 
 -->
 
+# !\#/bin/baklavash
+
 <img align="right" margin="0" padding="0" src="desktop-screen-compressed-3.gif" width="30%" height="auto" />
 
 📌 ⛽ 📌 🌟 <b><tt> Greetings VISITOR </tt></b> ☔⚡🚨🚧⚠️
@@ -407,5 +409,7 @@ ooo$oooooo       "$$$$$$$$$$$$$""      o"      oo$$""""""""$o  "
 ⬜⬛🟦🟦🟦🟦🟦⬜🟦🟦🟦🟦⬜🟦🟦🟦🟦🟦⬛⬜⬜⬜⬛🟩🟩🟩🟩⬜⬜🟩🟩🟩🟩🟩⬜⬜🟩🟩🟩🟩⬛⬜<br />
 </details>
 </div>
+
+# \# EOF
 
 <!-- EOF -->
