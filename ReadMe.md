@@ -136,11 +136,11 @@ ooo$oooooo       "$$$$$$$$$$$$$""      o"      oo$$""""""""$o  "
 
 📌 ⛽ 📌 🌟 <b><tt> Greetings VISITOR </tt></b> ☔⚡🚨🚧⚠️
 <br />
-  - <tt> A pointer REFERENCING executable CODE ❤️, rather than DATA 💡 </tt>
-  - <tt> The trampoline 📎 🔑 loads the chain REGISTER ⛔🔔 and then jumps </tt>
-  - <tt> 💰💰💰 Generics ARE syntax components of a PROGRAMMING language </tt>
-  - <tt> She ████████ unlocked, 🔓 █████  PERCEIVE speedily ████████ 💥 📌 ⛔ </tt>
-<br />
+  - <tt> A pointer REFERENCING executable CODE</tt> ❤️💋 <tt>, rather than DATA 💡 </tt>
+  - <tt> The trampoline</tt> 📎 🔑 <tt>loads the chain REGISTER</tt> ⛔🔔 <tt>and then jumps </tt>
+  - 💰💰💰 <tt>Generics ARE syntax components of a PROGRAMMING language </tt>
+  - <tt> She ████████ unlocked,</tt> 🔓 █████  <tt>PERCEIVE speedily</tt> ████████ 💥 📌 ⛔
+<br /><br />
 ❌❌❌ <tt>    #  ENUMERATING OBJECTS                                     </tt><br />
 ❌❌❌ <tt>    #                                          </tt>
 <br /><br />
