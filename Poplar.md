@@ -1,4 +1,4 @@
-```
+```postscript
 heartgpu(1)                            User Commands                           heartgpu(1)
 
 NAME
