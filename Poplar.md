@@ -42,9 +42,7 @@ OPTIONS
        -l, --listen
               Listen to your GPU's heartbeat.
 
-$${\color{red}Red}$$
-
-EXAMPLES
+!EXAMPLES
        To send love to your GPU:
               $ heartgpu
 
