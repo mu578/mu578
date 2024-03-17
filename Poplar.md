@@ -1,4 +1,4 @@
-```haskell
+<pre lang="haskell">
 heartgpu(1)                            User Commands                           heartgpu(1)
 
 NAME
@@ -78,4 +78,4 @@ COPYRIGHT
 SEE ALSO
        top(1), glxinfo(1), nvidia-smi(1), amdconfig(1)
 
- ```
+</pre>
